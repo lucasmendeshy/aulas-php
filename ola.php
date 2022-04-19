@@ -1,0 +1,2 @@
+<?php  /*ENTRADA AO  PHP*/
+phpinfo();  /*FUNÇÃO INTERNA DO PHP QUE TRAZ DADOS DA LINGUAGEM*/
