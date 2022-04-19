@@ -22,6 +22,8 @@
        echo "<hr>";
        echo "<h2>Gerando <span class=\"destaque\">HTML</span> através do PHP.</h2"; // \" -> ESCAPE
 
+       echo "Oi GitHub";
+
     ?>
     
 </body>
