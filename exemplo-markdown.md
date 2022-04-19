@@ -58,3 +58,10 @@ echo $aluno;
    ---   | ---    |  --- 
  João    | 25     | São Paulo
  Maria   | 10     | Rio de Janeiro
+
+ ## Emoji
+
+ :heart:
+ :star:
+ 🐰
+ 🦖
