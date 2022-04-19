@@ -48,6 +48,6 @@ echo $aluno;
 
 ### Listas de tarefas
 
-- [] Briefing
+- [ ] Briefing
 - [x] Rascunhos
-- [] Design
+- [ ] Design
